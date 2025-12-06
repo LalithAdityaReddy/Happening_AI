@@ -1,0 +1,7 @@
+{
+  "name": "Happening AI",
+  "description": "An intelligent location-based discovery assistant helping users find nearby events and places using Google Maps and Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
